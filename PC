@@ -1,0 +1,1 @@
+Hacer los modulos del procesador monociclo en verilog y mostrar la graficas
